@@ -1,0 +1,19 @@
+# MkDocs build directory
+site/
+
+# Python virtual environment
+venv/
+.venv/
+env/
+bin/
+lib/
+share/
+include/
+pyvenv.cfg
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# MyDocs local state
+.cache/
