@@ -4,9 +4,9 @@ hide:
 ---
 
 # Yanis EL MOHRI
-**Étudiant en L2 Informatique — Parcours Programmation de Jeux Vidéo**
+**Étudiant en L2 Informatique — Mineure Conception et Programmation de Jeux Vidéos**
 
-Actuellement en Licence à l'Université Paris 8, je me spécialise dans le développement bas niveau et la programmation graphique.
+Actuellement en 2e année en Licence à l'Université Paris 8, je suis passioné par le developpement et la programmation, en particulier en C.
 
 ---
 
@@ -16,11 +16,8 @@ Actuellement en Licence à l'Université Paris 8, je me spécialise dans le dév
 
 ### Compétences
 * **Langages :** C, C++, Python, Racket (Scheme), HTML/CSS.
-* **Outils :** Linux/Unix, Git, OpenGL, Moteur Godot.
+* **Outils :** Linux, Git, OpenGL, Moteur Godot, VSCode.
 
 ### Formation
 * **2024 - 2026 :** Licence Informatique - Université Paris 8.
 * **2024 :** Baccalauréat (Spécialités Mathématiques, Physique-Chimie, NSI) — Lycée Auguste Blanqui.
-
----
-:material-file-pdf-box: [Télécharger mon CV](CV_Yanis_EL_MOHRI.pdf)

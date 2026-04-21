@@ -16,14 +16,14 @@ theme:
       accent: blue
       media: "(prefers-color-scheme: light)"
       toggle:
-        icon: material/brightness-7
+        icon: material/toggle-switch-off-outline
         name: Mode sombre
     - scheme: slate
       primary: black
       accent: cyan
       media: "(prefers-color-scheme: dark)"
       toggle:
-        icon: material/brightness-3
+        icon: material/toggle-switch
         name: Mode clair
   font:
     text: Roboto Mono
@@ -37,8 +37,9 @@ markdown_extensions:
 
 nav:
   - À propos: index.md
+  - CV: cv.md
   - Projets: projects.md
-  - Contact: contact.md
+  - Liens: contact.md
 
 extra:
   social:
@@ -46,5 +47,5 @@ extra:
       link: https://github.com/yaniselmohri
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/elmohri/
-    - icon: fontawesome/solid/code
+    - icon: fontawesome/solid/gitlab
       link: https://code.up8.edu/elmohri/
